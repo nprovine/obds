@@ -1,2 +1,3 @@
 this is a test of git
 now I've written more
+now I'm in a branch
